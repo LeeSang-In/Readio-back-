@@ -26,13 +26,20 @@
 * 포스트 리뷰 - 포스트에 대한 내용을 리뷰로 작성할 수 있습니다.
 * 유저 팔로우 - 관심있는 사용자를 팔로우하여 사용자의 활동을 확인할 수 있습니다.
 <div align="center">
- 포스트 작성<br>
+ * 포스트 작성<br>
  <img src="https://github.com/LeeSang-In/Readio-back-/blob/main/readmeImg/postpost.png?raw=true" width="800" /><br>
- 포스트 조회<br>
+ * 포스트 조회<br>
  <img src="https://github.com/LeeSang-In/Readio-back-/blob/main/readmeImg/postget.png?raw=true" width="800" /><br>
- 피드 추천<br>
+ * 피드 추천<br>
  <img src="https://github.com/LeeSang-In/Readio-back-/blob/main/readmeImg/feed.png?raw=true" width="800" /><br>
- 팔로우 리스트<br>
+ * 팔로우 리스트<br>
  <img src="https://github.com/LeeSang-In/Readio-back-/blob/main/readmeImg/followlist.png?raw=true" width="800" /><br>
 </div>
 
+### 3. 개선사항 및 후기
+<br>
+포스트 작성 시 글꼴이나 정렬을 넣어보고 싶었으나 시간상 어려움으로 인해 추가하지 못한점이 아쉽고,<br>
+다른 사이트에서 가져온 기능이 아닌 색다른 기능을 만들어 보고 싶습니다.<br>
+<br>
+프론트엔드와 백엔드를 나눠서 프로젝트를 진행 하였는데<br>
+두가지 모두 경험하면서 프로젝트를 진행할 수 있어서 저의 발전에 아주 좋은 경험이 되었습니다.
