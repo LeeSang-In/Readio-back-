@@ -7,8 +7,10 @@
  <img src="https://github.com/LeeSang-In/Readio-back-/blob/main/readio.png?raw=true" width="600" />
 </div>
 <br>
+참고 사이트<br>
 🔎 Demo : https://storylineonline.net/<br>
-🔎 Demo : https://sarak.yes24.com/
+🔎 Demo : https://sarak.yes24.com/<br>
+<br>
 
 ### 1. 프로젝트 정보
 * 개발 인원 : 총 7명
@@ -18,5 +20,8 @@
 * Tool : IntelliJ, VS Code, Postman, Swagger UI, DA#Modeler5
 
 ### 2. 담당기능 및 상세역할
-* 
+* 피드 알고리즘 - 사용자의 감정, 북마크, 관심분야를 토대로 포스트와 리뷰를 추천 해줍니다.
+* 포스트 관련 CRUD - 책에 관련된 내용 또는 공유하고 싶은 내용을 포스트로 작성할 수 있습니다.
+* 포스트 리뷰 - 포스트에 대한 내용을 리뷰로 작성할 수 있습니다.
+* 유저 팔로우 - 관심있는 사용자를 팔로우하여 사용자의 활동을 확인할 수 있습니다.
 
