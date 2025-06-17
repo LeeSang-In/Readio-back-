@@ -3,22 +3,20 @@
 이 플랫폼은 날씨/계절, 사용자의 감정상태, 관심분야 등 다양한 요소를 반영한 맞춤형 추천을 통해<br>
 사용자가 새로운 방식으로 책을 경험하고, 콘텐츠와 깊이 있게 연결될 수 있도록 돕습니다.<br>
 <br>
-<div align="center>
- <img src="https://github.com/LeeSang-In/Readio-back-/blob/main/readio.png?raw=true" width="400" />
+<div align="center">
+ <img src="https://github.com/LeeSang-In/Readio-back-/blob/main/readio.png?raw=true" width="600" />
 </div>
+<br>
+🔎 Demo : https://storylineonline.net/<br>
+🔎 Demo : https://sarak.yes24.com/
 
-### 1. 개발 
-* 변수 및 함수명: **카멜케이스 (camelCase)** 사용
-* (추가적인 컨벤션 내용이 있다면 여기에 채워주세요)
+### 1. 프로젝트 정보
+* 개발 인원 : 총 7명
+* 개발 기간 : 2025.4.14 ~ 2025.6.11 (2개월)
+* 언어 & 프레임워크 : Java, SpringBoot, JPA, MyBatis, React, Redux, CSS
+* DB & 인프라 : MySQL, AWS
+* Tool : IntelliJ, VS Code, Postman, Swagger UI, DA#Modeler5
 
-### 2. 🪧 이슈 발행 규칙
-* 브랜치를 **세부적으로 생성** (ex) 조회/상세조회/작성/수정/삭제 등)
-* **커밋은 자주** 하기 (하루에 **2\~3회 이상** 권장)
-* 커밋 메시지에는 **이슈 번호와 일치된 번호 사용**
-* 이슈 생성 시 **협업 담당자 태그 필수**
-* 기능 개발 전, **이슈 등록 하고, 마일스톤에 연결**
+### 2. 담당기능 및 상세역할
+* 
 
-### 4. 🌿 브랜치 네이밍 규칙
-* `feature/기능이름/상세기능` 형태로 생성
-  * 예시: `feature/login/oauth`
-* 이슈도 동일한 구조로 작성
