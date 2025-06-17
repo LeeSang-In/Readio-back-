@@ -25,4 +25,14 @@
 * 포스트 관련 CRUD - 책에 관련된 내용 또는 공유하고 싶은 내용을 포스트로 작성할 수 있습니다.
 * 포스트 리뷰 - 포스트에 대한 내용을 리뷰로 작성할 수 있습니다.
 * 유저 팔로우 - 관심있는 사용자를 팔로우하여 사용자의 활동을 확인할 수 있습니다.
+<div align="center">
+ 포스트 작성<br>
+ <img src="https://github.com/LeeSang-In/Readio-back-/blob/main/readmeImg/postpost.png?raw=true" width="800" /><br>
+ 포스트 조회<br>
+ <img src="https://github.com/LeeSang-In/Readio-back-/blob/main/readmeImg/postget.png?raw=true" width="800" /><br>
+ 피드 추천<br>
+ <img src="https://github.com/LeeSang-In/Readio-back-/blob/main/readmeImg/feed.png?raw=true" width="800" /><br>
+ 팔로우 리스트<br>
+ <img src="https://github.com/LeeSang-In/Readio-back-/blob/main/readmeImg/followlist.png?raw=true" width="800" /><br>
+</div>
 
